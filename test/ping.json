@@ -1,0 +1,11 @@
+{
+    "test_cases": [
+        {
+            "service": "ping",
+            "params": {
+                "host1": "youtube.com",
+                "host2": "google.com"
+            }
+        }
+    ]
+}
